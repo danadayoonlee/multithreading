@@ -1,4 +1,4 @@
-package dayoon_lee_exercise4;
+package multithreading;
 
 // Fig. 23.6: ArrayWriter.java
 // Adds integers to an array shared with other Runnables

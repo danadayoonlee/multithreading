@@ -1,4 +1,4 @@
-package dayoon_lee_exercise4;
+package multithreading;
 
 // Fig. 23.8: SimpleArray.java
 // Class that manages an integer array to be shared by multiple

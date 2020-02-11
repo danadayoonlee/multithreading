@@ -1,4 +1,4 @@
-package dayoon_lee_exercise4;
+package multithreading;
 
 // Fig. 23.7: SharedArrayTest.java
 // Executing two Runnables to add elements to a shared SimpleArray.
